@@ -1,0 +1,44 @@
+[
+  {
+    "country": "US",
+    "city": "Boston",
+    "fruit": "apple",
+    "currency": "USD",
+    "price": 1
+  },
+  {
+    "country": "FR",
+    "city": "Paris",
+    "fruit": "apple",
+    "currency": "EUR",
+    "price": 0.7
+  },
+  {
+    "country": "FR",
+    "city": "Lyon",
+    "fruit": "pear",
+    "currency": "EUR",
+    "price": 1.2
+  },
+  {
+    "country": "ES",
+    "city": "Madrid",
+    "fruit": "banana",
+    "currency": "EUR",
+    "price": 1.1
+  },
+  {
+    "country": "UK",
+    "city": "London",
+    "fruit": "orange",
+    "currency": "GBP",
+    "price": 0.8
+  },
+  {
+    "country": "UK",
+    "city": "London",
+    "fruit": "pear",
+    "currency": "FBP",
+    "price": 1.5
+  }
+]
