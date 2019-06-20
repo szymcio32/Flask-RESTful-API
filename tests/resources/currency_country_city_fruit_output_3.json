@@ -1,0 +1,31 @@
+{
+  "USD": {
+    "US": {
+      "Boston": {
+        "apple": [
+          {
+            "price": 1
+          }
+        ]
+      }
+    }
+  },
+  "EUR": {
+    "FR": {
+      "Paris": {
+        "apple": [
+          {
+            "price": 0.7
+          }
+        ]
+      },
+      "Lyon": {
+        "pear": [
+          {
+            "price": 1.2
+          }
+        ]
+      }
+    }
+  }
+}

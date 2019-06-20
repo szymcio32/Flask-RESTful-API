@@ -1,0 +1,25 @@
+{
+  "US": {
+    "USD": [
+      {
+        "city": "Boston",
+        "fruit": "apple",
+        "price": 1
+      }
+    ]
+  },
+  "FR": {
+    "EUR": [
+      {
+        "city": "Paris",
+        "fruit": "apple",
+        "price": 0.7
+      },
+      {
+        "city": "Lyon",
+        "fruit": "pear",
+        "price": 1.2
+      }
+    ]
+  }
+}

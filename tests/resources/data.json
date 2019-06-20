@@ -1,0 +1,23 @@
+[
+  {
+    "country": "US",
+    "city": "Boston",
+    "fruit": "apple",
+    "currency": "USD",
+    "price": 1
+  },
+  {
+    "country": "FR",
+    "city": "Paris",
+    "fruit": "apple",
+    "currency": "EUR",
+    "price": 0.7
+  },
+  {
+    "country": "FR",
+    "city": "Lyon",
+    "fruit": "pear",
+    "currency": "EUR",
+    "price": 1.2
+  }
+]
